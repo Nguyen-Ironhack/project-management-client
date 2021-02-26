@@ -68,7 +68,7 @@ class ProjectDetails extends Component {
     }
   };
 
-  ender() {
+  render() {
     return (
       <div>
         <h1>{this.state.title}</h1>
